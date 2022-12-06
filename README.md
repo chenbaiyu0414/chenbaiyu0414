@@ -12,6 +12,6 @@
 
 <div align="center">
 
-[![chenbaiyu0414's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenbaiyu0414&show_icons=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![chenbaiyu0414's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=chenbaiyu0414&show_icons=true&count_private=true&hide_title=true&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 </div>
