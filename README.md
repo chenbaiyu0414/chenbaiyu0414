@@ -1,10 +1,17 @@
-### HI
-<!-- dafds
+<h1 align="center">🫶 Hi, I'm Chen</h1>
+<p align="center">
+🔬 I'm currently working on <a href=https://github.com/MirrorX-Desktop/MirrorX>MirrorX-Desktop/MirrorX</a><br/>
+🤠 As a backend newbie since 2018<br/>
+🤹 Focuses on Rust and Go<br/>
+✨ Also, I can do some basically WEB developing<br/>
+🕹️ I like exquisite 2D Pixel Games, eg: Stardew Valley, MapleStory...<br/>
+📮 Reach me by sending an email to: cby40899570@gmail.com<br/>
+💼 <b>I'm looking for a remote job, if you are interested in me, contact me!</b><br/>
 
-adfasf
+<h1></h1>
 
-asdfasdf
+<div align="center">
 
+[![chenbaiyu0414's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenbaiyu0414&show_icons=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-| dafsfas | <a href="https://github.com/chenbaiyu0414"><img width="460" align="right" src="https://github-readme-stats.vercel.app/api?username=chenbaiyu0414&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true" /></a>
-  <a href="https://github.com/chenbaiyu0414"><img width="460" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenbaiyu0414&layout=compact&theme=swift&hide_border=true" /></a> | -->
+</div>
