@@ -1,12 +1,11 @@
 <h1 align="center">🫶 Hi, I'm Chen</h1>
 <p align="center">
-🔬 I'm currently working on <a href=https://github.com/MirrorX-Desktop/MirrorX>MirrorX-Desktop/MirrorX</a><br/>
+🔬 I'm currently working on something NEW<br/>
 🤠 As a backend newbie since 2018<br/>
 🤹 Focuses on Rust and Go<br/>
 ✨ Also, I can do some basically WEB developing<br/>
 🕹️ I like exquisite 2D Pixel Games, eg: Stardew Valley, MapleStory...<br/>
 📮 Reach me by sending an email to: cby40899570@gmail.com<br/>
-💼 <b>I'm looking for a remote job, if you are interested in me, contact me!</b><br/>
 
 <h1></h1>
 
